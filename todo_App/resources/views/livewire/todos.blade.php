@@ -39,6 +39,4 @@
           <p>no data yet</p>
          @endif
       </table>
-
-
 </div>
